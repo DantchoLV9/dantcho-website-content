@@ -1,4 +1,4 @@
-This repository stores the content for my [website](www.dantcho.com).
+This repository stores the content for my [website](https://www.dantcho.com).
 
 If you have found an issue or want to suggest a change feel free to contribute.
 
