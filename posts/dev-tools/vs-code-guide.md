@@ -1,7 +1,7 @@
 ---
 title: "VS Code For Beginners"
 date: "2020-02-21"
-description: "VS Code is my choise of source code editor. Read this if you are want to start using it!"
+description: "VS Code is my choice of source code editor. Read this if you are want to start using it!"
 draft: false
 tags:
   - Dev Tools
